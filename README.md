@@ -36,7 +36,7 @@ Before running the script, ensure that you have the following:
    - Update the HTML content in `test.html` to match your email body.
    - Replace the image files in the "test" directory with your desired images.
 
-#### Usage
+### Usage
 
 Run the script:
 
